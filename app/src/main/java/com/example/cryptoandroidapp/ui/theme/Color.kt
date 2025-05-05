@@ -2,6 +2,10 @@ package com.example.cryptoandroidapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val DarkGray = Color(0xFF202020)
+val MediumGray = Color(0xFF505050)
+val ColorPrimary = Color(0xFF08FF04)
+val TextWhite = Color(0xFFEEEEEE)
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
